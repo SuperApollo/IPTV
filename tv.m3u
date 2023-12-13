@@ -14,8 +14,9 @@ https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/11
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="CCTV", CCTV7
 http://cfss.cc/api/ysp/cctv7.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="CCTV", CCTV8
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+http://cfss.cc/api/ysp/cctv8.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="CCTV", CCTV9
+http://cfss.cc/api/ysp/cctv9.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CCTV", CCTV10
 http://cfss.cc/api/ysp/cctv10.m3u8
@@ -24,9 +25,11 @@ http://cfss.cc/api/ysp/cctv11.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="CCTV", CCTV12
 http://cfss.cc/api/ysp/cctv12.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CCTV", CCTV13
+http://cfss.cc/api/ysp/cctv13.m3u8
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="CCTV", CCTV14
 https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
+http://cfss.cc/ds/bst.php?id=Cf-15
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="CCTV", CCTV15
 http://cfss.cc/api/ysp/cctv15.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰", 凤凰中文
